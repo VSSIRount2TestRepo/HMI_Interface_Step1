@@ -1,0 +1,6 @@
+div.main-panel {
+    display: flex;
+    position: relative;
+    width: 100%;
+    background-color: #687388;
+}
