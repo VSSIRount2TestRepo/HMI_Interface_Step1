@@ -3,9 +3,9 @@ import {Route, BrowserRouter as Router, Routes} from "react-router-dom";
 import PageA from "./PageA";
 import PageB from "./PageB";
 import PageMain from "./PageMain";
+import NavBar from "./NavBar";
 
 import '../stylesheet/App.css';
-import NavBar from "./NavBar";
 
 function App() {
 
