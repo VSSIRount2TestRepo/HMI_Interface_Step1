@@ -2,7 +2,7 @@
 User Interface for React
 
 
-![project image](./hmi-interface/img/img.png)
+![project image](./hmi-interface/img/img2.PNG)
 
 # How to run
 
